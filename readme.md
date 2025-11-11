@@ -24,9 +24,9 @@ praticar os fundamentos de estruturação de páginas com HTML e estilização c
 
 ## 🖼️ Prévia do projeto
 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+![alt text](Imagens/image.png)
+![alt text](Imagens/image-1.png)
+![alt text](Imagens/image-2.png)
 
 ---
 
